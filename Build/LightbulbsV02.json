@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Lightbulbs",
+"productVersion": "0.1",
+"dataUrl": "LightbulbsV02.data.unityweb",
+"wasmCodeUrl": "LightbulbsV02.wasm.code.unityweb",
+"wasmFrameworkUrl": "LightbulbsV02.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.4f1"
+}
